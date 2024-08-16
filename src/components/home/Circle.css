@@ -1,0 +1,12 @@
+/* Circle.css */
+.circle {
+    position: fixed; /* Sticks to the specified position */
+    bottom: 20px;     /* Distance from the bottom of the viewport */
+    right: 20px;      /* Distance from the right edge of the viewport */
+    width: 50px;      /* Width of the circle */
+    height: 50px;     /* Height of the circle */
+    background-color: red; /* Circle color */
+    border-radius: 50%; /* Makes it a circle */
+    z-index: 1000;    /* Ensures the circle is on top of other elements */
+  }
+  

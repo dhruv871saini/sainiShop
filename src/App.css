@@ -1,0 +1,30 @@
+/* .bg-darks{
+  background-color: #212529;
+  color: white;
+}.bg-darks p{
+  color: white;
+} */
+.bg-light {
+  background-color: white;
+  color: black;
+}
+
+.bg-dark {
+  background-color: black;
+  color: white;
+
+}
+.bg-dark ul li .nav-link{
+  color: white;
+}
+.bg-dark .themo{
+  color: white;
+
+
+}.sticky-top {
+  z-index: 1030; /* Higher z-index ensures it's on top of other content */
+}
+
+footer {
+  z-index: 1000; /* Footer will be below the sticky-top elements */
+}

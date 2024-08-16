@@ -1,0 +1,53 @@
+.cart-container img {
+   width: 150px; /* Set a fixed width for the product images */
+   height: 150px; /* Set a fixed height for the product images */
+   object-fit: cover; /* Ensure the image covers the area without stretching */
+   border-radius: 5px; /* Add rounded corners */
+ }
+ 
+ /* Other styles remain the same */
+ .cart-container {
+   /* background-color: #f8f9fa; Light gray background */
+   border-radius: 10px;
+   padding: 20px;
+ }
+ 
+ .sticky-clear {
+   position: -webkit-sticky; /* For Safari */
+   position: sticky;
+   bottom: 0;
+   background-color: #ffc107; /* Bootstrap's warning color */
+   padding: 10px 20px;
+   font-size: 1.25rem;
+   font-weight: bold;
+   color: #007bff; /* Bootstrap's primary color */
+   border: none;
+   cursor: pointer;
+   border-radius: 5px;
+ }
+ 
+ .sticky-clear:hover {
+   background-color: #ffca2c; /* Slightly darker warning color on hover */
+ }
+ 
+ ul {
+   padding-left: 0; /* Remove default padding */
+ }
+ 
+ h2 {
+   font-weight: 700;
+   color: #343a40; /* Dark gray color */
+ }
+ 
+ h5 {
+   font-weight: 600;
+   color: #495057; /* Medium gray color */
+ }
+ 
+ p {
+   color: #6c757d; /* Light gray color */
+ }
+ 
+ button svg {
+   pointer-events: none; /* Prevent SVG from interfering with button click */
+ }
