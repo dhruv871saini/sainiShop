@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/ecommerc/static/css/main.1489d83a.css",
-    "main.js": "/ecommerc/static/js/main.82693cdd.js",
-    "static/js/453.bea66239.chunk.js": "/ecommerc/static/js/453.bea66239.chunk.js",
-    "index.html": "/ecommerc/index.html",
-    "main.1489d83a.css.map": "/ecommerc/static/css/main.1489d83a.css.map",
-    "main.82693cdd.js.map": "/ecommerc/static/js/main.82693cdd.js.map",
-    "453.bea66239.chunk.js.map": "/ecommerc/static/js/453.bea66239.chunk.js.map"
+    "main.css": "/sainiShop/static/css/main.1489d83a.css",
+    "main.js": "/sainiShop/static/js/main.6bbb98a7.js",
+    "static/js/453.bea66239.chunk.js": "/sainiShop/static/js/453.bea66239.chunk.js",
+    "index.html": "/sainiShop/index.html",
+    "main.1489d83a.css.map": "/sainiShop/static/css/main.1489d83a.css.map",
+    "main.6bbb98a7.js.map": "/sainiShop/static/js/main.6bbb98a7.js.map",
+    "453.bea66239.chunk.js.map": "/sainiShop/static/js/453.bea66239.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1489d83a.css",
-    "static/js/main.82693cdd.js"
+    "static/js/main.6bbb98a7.js"
   ]
 }
